@@ -22,4 +22,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=papluckfii&show_icons=true&locale=en" alt="papluckfii" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PaPluckfii&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
