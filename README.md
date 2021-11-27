@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sumeet Das</h1>
 <h3 align="center">I am an Android Developer</h3>
 
-- 🔭 I’m currently working on [AlgoVisualizer](https://github.com/PaPluckfii/AlgoVisualizer)
+- 🔭 I’m currently working as an Android Developer at Nickelfox Technologies Pvt Ltd.
 
 - 👨‍💻 Check out more about me from here [https://sumeet1996das.wixsite.com/my-site](https://sumeet1996das.wixsite.com/my-site)
 
