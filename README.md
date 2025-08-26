@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working as an Android Developer at Nickelfox Technologies Pvt Ltd.
 
-- 👨‍💻 Check out more about me from here [https://sumeet1996das.wixsite.com/my-site](https://sumeet1996das.wixsite.com/my-site)
+- 📫 How to reach me **sumeet.ad.das@gmail.com**
 
-- 📫 How to reach me **sumeet1996das@gmail.com**
-
-- 📄 Here is my Resume [https://drive.google.com/file/d/1lQf9JarXCYr_fBHDl4F_MibpnqAxrmUa/view?usp=sharing](https://drive.google.com/file/d/1lQf9JarXCYr_fBHDl4F_MibpnqAxrmUa/view?usp=sharing)
+- 📄 Here is my Resume [https://drive.google.com/file/d/1lQf9JarXCYr_fBHDl4F_MibpnqAxrmUa/view?usp=sharing](https://drive.google.com/file/d/1lQf9JarXCYr_fBHDl4F_MibpnqAxrmUa/view?usp=sharing)](https://drive.google.com/file/d/12FOqcnFwJWjygBujNcEsJxVZaw4F8337/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
