@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **sumeet.ad.das@gmail.com**
 
-- 📄 Here is my Resume [https://drive.google.com/file/d/1lQf9JarXCYr_fBHDl4F_MibpnqAxrmUa/view?usp=sharing](https://drive.google.com/file/d/1lQf9JarXCYr_fBHDl4F_MibpnqAxrmUa/view?usp=sharing)](https://drive.google.com/file/d/12FOqcnFwJWjygBujNcEsJxVZaw4F8337/view?usp=sharing)
+- 📄 Here is my Resume [https://drive.google.com/file/d/1k2j5Pd_lu4rKK5k8Kx-tWNMldzEtZMZ1/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
