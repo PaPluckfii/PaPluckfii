@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sumeet Das</h1>
 <h3 align="center">I am an Android Developer</h3>
 
-- 🔭 I’m currently working as an Android Developer at Nickelfox Technologies Pvt Ltd.
-
 - 📫 How to reach me **sumeet.ad.das@gmail.com**
 
 - 📄 Here is my Resume [https://drive.google.com/file/d/1lQf9JarXCYr_fBHDl4F_MibpnqAxrmUa/view?usp=sharing](https://drive.google.com/file/d/1lQf9JarXCYr_fBHDl4F_MibpnqAxrmUa/view?usp=sharing)](https://drive.google.com/file/d/12FOqcnFwJWjygBujNcEsJxVZaw4F8337/view?usp=sharing)
